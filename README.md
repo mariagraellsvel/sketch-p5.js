@@ -13,7 +13,7 @@ Sketch interactivo hecho con p5.js.
 - **S:** guarda una imagen.
 
 ## Vídeo
-[Ver vídeo (5 s)](video.mp4)
+[Ver vídeo (5 s)](video.mov)
 
 ## Ver en p5.js
 [Abrir el sketch en el editor de p5.js](https://editor.p5js.org/mariagraells/full/9jVXGM9MN)
